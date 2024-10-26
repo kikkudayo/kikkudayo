@@ -1,17 +1,6 @@
 hellouaw!
 
-i'm currently learning:
-
-  - javascript
-
-i've done stuff w/:
-
-  - php
-  - sql
-
-and i've already forgotten:
-  
-  - java
+i'm kikku
 <!--
 **kikkudayo/kikkudayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
